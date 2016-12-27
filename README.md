@@ -1,1 +1,1 @@
-# HarvardX_Python_for_Reseach
+# HarvardX_Python_for_Research
